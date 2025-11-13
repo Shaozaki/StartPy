@@ -8,3 +8,5 @@ outp = a * b
 print(outp)
 text = "The floor was flooded yesterday"
 print(text)
+text2 = "salam dari binjai"
+print(text)
